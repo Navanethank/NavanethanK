@@ -90,8 +90,8 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 | Project | Description |
 |----------|-------------|
-| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
-|📉 Customer Churn Prediction | Developed an end-to-end customer churn prediction dashboard with Streamlit, Random Forest, SHAP explainability, batch prediction, and MongoDB integration.|
+| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and React.JS |
+|📉 Customer Churn Prediction | Developed end-to-end customer churn prediction dashboard using Streamlit, MongoDB|
 |🌲 Algerian Forest Fire Prediction | AI-powered machine learning system for predicting forest fire risk in real time |
 
 
