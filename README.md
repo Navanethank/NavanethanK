@@ -137,14 +137,27 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
-| 📉 Customer Churn Prediction | Customer churn prediction with Explainable AI and SHAP |
-| 🤖 NLP Sentiment Analysis | Sentiment analysis using Machine Learning and NLP |
-| 📊 Sales Forecast Dashboard | Forecast future sales with interactive visualizations |
-| 🎬 Movie Recommendation System | Content-based and collaborative recommendation engine |
-| 🏠 IoT Smart Home Automation | Smart home automation using MQTT, sensors, and cloud |
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/Credit-Risk-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Credit-Risk-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Customer-Churn-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Customer-Churn-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/NLP-Sentiment-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NLP-Sentiment-Analysis&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/Sales-Forecasting-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
