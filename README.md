@@ -1,14 +1,29 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Navanethan K
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Navanethan%20K&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist%20|%20AI%20Developer&descAlignY=58"/>
 
-<h3>
-Machine Learning Engineer • Data Scientist • AI Developer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;AI+Developer;Python+Developer;Deep+Learning+Enthusiast;Natural+Language+Processing;Generative+AI+Explorer;Always+Learning+New+Technologies+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions.;Machine+Learning+Engineer.;Data+Science+Enthusiast.;Deep+Learning+%7C+NLP+%7C+MLOps.;Always+Learning+Something+New." />
+<p>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Navanethank&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Navanethank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kaggle.com/your-kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Navanethank&style=for-the-badge&color=00F5FF"/>
+
+</p>
 
 </div>
 
@@ -18,172 +33,85 @@ Machine Learning Engineer • Data Scientist • AI Developer
 
 🎓 Information Technology Student
 
-🤖 Passionate Machine Learning Engineer & Data Scientist
+🤖 Machine Learning Engineer
 
-💡 I enjoy building intelligent systems that solve real-world problems using AI, Machine Learning, Deep Learning, and Data Analytics.
+📊 Data Scientist
 
-🌱 Currently learning
+💻 AI Developer
+
+Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP, and Data Analytics.
+
+---
+
+## 🚀 Currently Working On
+
+- 💳 Credit Risk Prediction
+- 📉 Customer Churn Prediction
+- 🤖 AI Chatbot
+- 📊 Data Analytics Dashboard
+- 🏠 IoT Smart Home Automation
+
+---
+
+# 🌱 Currently Learning
 
 - Generative AI
-- Large Language Models (LLMs)
+- LangChain
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
 - MLOps
 - Docker
 - Kubernetes
 - AWS
 
-🚀 Currently Working On
-
-- Credit Risk Prediction
-- Customer Churn Prediction
-- AI Chatbot
-- NLP Applications
-- Data Analytics Dashboard
-
 ---
 
-# 🚀 Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
-</p>
-
-## Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-Python • Pandas • NumPy • Scikit-Learn • XGBoost • LightGBM • Keras
-
----
-
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,flask" />
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navanethank&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,flask,fastapi,mongodb,mysql,git,github,docker,linux,vscode"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navanethank&theme=tokyonight"/>
+</p>
+
+### Machine Learning
+
+- Scikit-learn
+- TensorFlow
+- Keras
+- XGBoost
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navanethank&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navanethank&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navanethank&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navanethank&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🧠 Machine Learning Projects
+# 🏆 GitHub Trophy Wall
 
-## 💳 Credit Risk Prediction
+<p align="center">
 
-Predict customer creditworthiness using Machine Learning.
+<img src="https://github-profile-trophy.vercel.app/?username=Navanethank&theme=algolia&row=2&column=4"/>
 
-**Features**
-
-- Data Cleaning
-- Feature Engineering
-- Random Forest Classification
-- Streamlit Dashboard
-- MongoDB Integration
-- Batch Prediction
-
----
-
-## 📉 Customer Churn Prediction
-
-Predict customer churn using supervised Machine Learning.
-
-**Highlights**
-
-- SHAP Explainability
-- Feature Importance
-- Interactive Dashboard
-- Streamlit Deployment
-
----
-
-## 🤖 NLP Sentiment Analysis
-
-Sentiment analysis using NLP and Machine Learning.
-
-- Text Cleaning
-- TF-IDF
-- Classification Models
-- Visualization
-
----
-
-## 📊 Sales Forecast Dashboard
-
-Forecast sales using Machine Learning and visualize insights with dashboards.
-
----
-
-## 🎬 Movie Recommendation System
-
-Recommendation engine using collaborative and content-based filtering.
-
----
-
-## 🏠 Smart Home Automation (IoT)
-
-IoT project using MQTT, sensors, and cloud connectivity for smart home automation.
-
----
-
-# 🏆 Achievements
-
-🏅 Machine Learning Projects
-
-🏅 AI Portfolio
-
-🏅 Data Science Projects
-
-🏅 Open Source Learning
-
-🏅 IoT Development
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 Generative AI
-- 🧠 LangChain
-- 📄 Retrieval-Augmented Generation (RAG)
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚡ FastAPI
-- 📦 MLOps
+</p>
 
 ---
 
@@ -197,7 +125,44 @@ IoT project using MQTT, sensors, and cloud connectivity for smart home automatio
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
+| 📉 Customer Churn Prediction | Customer churn prediction with Explainable AI and SHAP |
+| 🤖 NLP Sentiment Analysis | Sentiment analysis using Machine Learning and NLP |
+| 📊 Sales Forecast Dashboard | Forecast future sales with interactive visualizations |
+| 🎬 Movie Recommendation System | Content-based and collaborative recommendation engine |
+| 🏠 IoT Smart Home Automation | Smart home automation using MQTT, sensors, and cloud |
+
+---
+
+# 📚 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📈 Data Analytics
+- 💬 Natural Language Processing
+- 👁 Computer Vision
+- ☁️ Cloud Computing
+- ⚙️ MLOps
+- 🚀 Generative AI
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -213,6 +178,10 @@ IoT project using MQTT, sensors, and cloud connectivity for smart home automatio
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://kaggle.com/your-kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle"/>
+</a>
+
 </p>
 
 ---
@@ -221,8 +190,10 @@ IoT project using MQTT, sensors, and cloud connectivity for smart home automatio
 
 ## 💡 Quote
 
-*"Turning Data into Insights, and AI into Real-World Impact."*
+### *"Turning Data into Intelligence, and Intelligence into Impact."*
 
-⭐ If you like my work, don't forget to star my repositories!
+⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,100:0F2027"/>
 
 </div>
