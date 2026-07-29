@@ -86,17 +86,18 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 - Plotly
 
 ---
+# 🚀 Featured Projects
 
+| Project | Description |
+|----------|-------------|
+| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
+| 📉 Customer Churn Prediction | Customer churn prediction with Explainable AI and SHAP |
 
-# 🏆 GitHub Trophy Wall
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Navanethank&theme=algolia&row=2&column=4"/>
-
-</p>
 
 ---
+
+
+
 
 # 📈 Contribution Graph
 
@@ -118,18 +119,7 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
-| 📉 Customer Churn Prediction | Customer churn prediction with Explainable AI and SHAP |
-| 🤖 NLP Sentiment Analysis | Sentiment analysis using Machine Learning and NLP |
-| 📊 Sales Forecast Dashboard | Forecast future sales with interactive visualizations |
-| 🎬 Movie Recommendation System | Content-based and collaborative recommendation engine |
-| 🏠 IoT Smart Home Automation | Smart home automation using MQTT, sensors, and cloud |
-
----
 
 # 📚 Areas of Interest
 
