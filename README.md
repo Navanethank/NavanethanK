@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Navanethan%20K&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist%20|%20AI%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;Natural+Language+Processing;Generative+AI+Explorer;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;AI+Developer;Python+Developer;Deep+Learning+Enthusiast;Natural+Language+Processing;Generative+AI+Explorer;Always+Learning+New+Technologies+🚀"/>
 
 <p>
 <a href="https://linkedin.com/in/your-linkedin">
@@ -137,27 +137,14 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 # 🚀 Featured Projects
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/Credit-Risk-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Credit-Risk-Prediction&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/Customer-Churn-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Customer-Churn-Prediction&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/NLP-Sentiment-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NLP-Sentiment-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/Sales-Forecasting-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Forecasting-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 💳 Credit Risk Prediction | Predict customer creditworthiness using Machine Learning and Streamlit |
+| 📉 Customer Churn Prediction | Customer churn prediction with Explainable AI and SHAP |
+| 🤖 NLP Sentiment Analysis | Sentiment analysis using Machine Learning and NLP |
+| 📊 Sales Forecast Dashboard | Forecast future sales with interactive visualizations |
+| 🎬 Movie Recommendation System | Content-based and collaborative recommendation engine |
+| 🏠 IoT Smart Home Automation | Smart home automation using MQTT, sensors, and cloud |
 
 ---
 
