@@ -43,15 +43,7 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 ---
 
-## 🚀 Currently Working On
 
-- 💳 Credit Risk Prediction
-- 📉 Customer Churn Prediction
-- 🤖 AI Chatbot
-- 📊 Data Analytics Dashboard
-- 🏠 IoT Smart Home Automation
-
----
 
 # 🌱 Currently Learning
 
@@ -62,7 +54,7 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 - MLOps
 - Docker
 - Kubernetes
-- AWS
+
 
 ---
 
