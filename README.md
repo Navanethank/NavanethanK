@@ -62,32 +62,117 @@ Passionate about building intelligent systems using Artificial Intelligence, Mac
 
 ---
 
-<!-- DATA PIPELINE ANIMATION -->
+
+
+# 🌱 Currently Learning
+
+- Generative AI
+- LangChain
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Docker
+- Kubernetes
+
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,flask,fastapi,mongodb,mysql,git,github,docker,linux,vscode"/>
+
+</p>
+
+
+---
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 NLP Sentiment Analysis | Sentiment analysis using Machine Learning and NLP |
+| 📊 Sales Forecast Dashboard | Forecast future sales with interactive visualizations |
+| 🎬 Movie Recommendation System | Content-based and collaborative recommendation engine |
+| 🏠 IoT Smart Home Automation | Smart home automation using MQTT, sensors, and cloud |
+
+
+
+
+
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navanethank&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+
+
+---
+
+# 📚 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📈 Data Analytics
+- 💬 Natural Language Processing
+- 👁 Computer Vision
+- ☁️ Cloud Computing
+- ⚙️ MLOps
+- 🚀 Generative AI
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Navanethank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://kaggle.com/your-kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-```text
-        DATA
-         │
-         ▼
-   ┌───────────┐
-   │ CLEANING  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │ FEATURES  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   MODEL   │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │ PREDICT   │
-   └─────┬─────┘
-         │
-         ▼
-     INSIGHTS 📊
+## 💡 Quote
+
+### *"Turning Data into Intelligence, and Intelligence into Impact."*
+
+⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,100:0F2027"/>
+
+</div>
+"dont change the content but add or modify the animation style to based on the data scientist"
