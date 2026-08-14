@@ -2,7 +2,7 @@
 
 <!-- DATA SCIENCE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0F172A,50:0F766E,75:0369A1,100:020617&text=Navanethan%20K&fontSize=60&fontColor=67E8F9&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Developer&descAlignY=58&descSize=20&descColor=CBD5E1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0F172A,50:0F766E,75:0369A1,100:020617&text=Navanethan%20K&fontSize=60&fontColor=67E8F8&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Developer&descAlignY=58&descSize=20&descColor=CBD5E1"/>
 
 <!-- ANIMATED DATA SCIENCE TYPING -->
 
